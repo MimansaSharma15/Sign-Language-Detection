@@ -16,6 +16,5 @@ A custom CNN architecture based model as shown below has been used for this task
   <img width="900" height="500" src="https://user-images.githubusercontent.com/43301609/86128405-2cefdf80-ba96-11ea-8120-d02a76c794c3.PNG">
 </p>
 
-***Future Enhancements***<br><br>
-&nbsp;&nbsp;&nbsp;Heroku based online website in progress…
+
 
